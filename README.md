@@ -9,7 +9,7 @@ I am just a guy who is enthusiastic about creating big things with the tap of my
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-092E20?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ---
